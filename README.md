@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World 👋
 
 <!--
 **cmeader1053/cmeader1053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github.com/cmeader1053/cmeader1053/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
