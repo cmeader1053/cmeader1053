@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hello World! I'm Chris 
-### Cloud Systems Administrator | AWS · automations · DevOps
+### Cloud Systems Administrator | AWS · Automation · DevOps
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christophermeader2)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=github&logoColor=white)](#)
