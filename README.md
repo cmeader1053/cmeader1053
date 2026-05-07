@@ -58,15 +58,11 @@ Currently open to Cloud/Systems Engineer and DevOps roles in the Cleveland, OH a
 ## Current Projects
 
 **[AWS Terraform Templates](https://github.com/cmeader1053/projects/tree/main/terraform/templates)**
-> A growing library of reusable, standardized Terraform templates for AWS resources — EC2, S3, VPC, Security Groups, and more. Built with a consistent four-file structure and designed to drop into any project without rework.
+> A growing library of reusable, standardized Terraform templates for AWS resources including EC2, S3, VPC, Security Groups, and more. Built with a consistent four-file structure and designed to drop into any project without rework.
 
 **[Zabbix Network Monitoring](https://github.com/cmeader1053/projects/tree/main/zabbix)**
-> Monitoring solution for FortiGate and network infrastructure using Zabbix — covers KPI tracking and automated alerting across domestic and international sites.
+> Monitoring solution for FortiGate and network infrastructure using Zabbix covering KPI tracking and automated alerting across domestic and international sites.
 
 **[View all projects →](https://github.com/cmeader1053/projects)**
 
 ---
-
-## Get In Touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/christophermeader2)
