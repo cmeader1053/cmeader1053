@@ -63,6 +63,8 @@ Currently open to Cloud/Systems Engineer and DevOps roles in the Cleveland, OH a
 **[Zabbix Network Monitoring](https://github.com/cmeader1053/projects/tree/main/zabbix)**
 > Monitoring solution for FortiGate and network infrastructure using Zabbix — covers KPI tracking and automated alerting across domestic and international sites.
 
+**[View all projects →](https://github.com/cmeader1053/projects)**
+
 ---
 
 ## Get In Touch
