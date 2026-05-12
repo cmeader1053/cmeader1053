@@ -63,6 +63,9 @@ Currently open to Cloud/Systems Engineer and DevOps roles in the Cleveland, OH a
 **[Zabbix Network Monitoring](https://github.com/cmeader1053/projects/tree/main/zabbix)**
 > Monitoring solution for FortiGate and network infrastructure using Zabbix covering KPI tracking and automated alerting across domestic and international sites.
 
+>**[Fortigate Backup Automation](https://github.com/cmeader1053/projects/tree/main/python/fortigate_fw_backup)**
+> Python automation project running from AWS Lambda to perform full configuration backups of Fortigate firewalls at remote locations storing them in an AWS S3 bucket.
+
 **[View all projects →](https://github.com/cmeader1053/projects)**
 
 ---
