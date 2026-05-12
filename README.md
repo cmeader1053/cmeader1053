@@ -55,15 +55,15 @@ Currently open to Cloud/Systems Engineer and DevOps roles in the Cleveland, OH a
 
 ---
 
-## Current Projects
+## Key Projects
 
-**[AWS Terraform Templates](https://github.com/cmeader1053/projects/tree/main/terraform/templates)**
+**[AWS Terraform Templates](https://github.com/cmeader1053/projects/tree/main/terraform/templates)** 🔧 *In Progress*
 > A growing library of reusable, standardized Terraform templates for AWS resources including EC2, S3, VPC, Security Groups, and more. Built with a consistent four-file structure and designed to drop into any project without rework.
 
-**[Zabbix Network Monitoring](https://github.com/cmeader1053/projects/tree/main/zabbix)**
+**[Zabbix Network Monitoring](https://github.com/cmeader1053/projects/tree/main/zabbix)** 🔧 *In Progress*
 > Monitoring solution for FortiGate and network infrastructure using Zabbix covering KPI tracking and automated alerting across domestic and international sites.
 
-**[Fortigate Backup Automation](https://github.com/cmeader1053/projects/tree/main/python/fortigate_fw_backup)**
+**[Fortigate Backup Automation](https://github.com/cmeader1053/projects/tree/main/python/fortigate_fw_backup)** ✅ *Active*
 > Python automation project running from AWS Lambda to perform full configuration backups of Fortigate firewalls at remote locations storing them in an AWS S3 bucket.
 
 **[View all projects →](https://github.com/cmeader1053/projects)**
